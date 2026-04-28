@@ -16,10 +16,10 @@ $kasa += praca();
 $kasa += praca();
 $kasa += praca();
 
-$kasa = piwkotartrajasne($kasa);
-$kasa = piwkotartrajasne($kasa);
-$kasa = piwkotartrajasne($kasa);
-$kasa = piwkotartrajasne($kasa);
+$kasa = piwkotatrajasne($kasa);
+$kasa = piwkotatrajasne($kasa);
+$kasa = piwkotatrajasne($kasa);
+$kasa = piwkotatrajasne($kasa);
 
 echo "stan konta: $kasa zł;"
 ?>
