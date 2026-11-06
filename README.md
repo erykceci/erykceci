@@ -1,2 +1,2 @@
 # Cheat-Sheet
-dfsfdtuuyuy
+szto bys zdzialal
